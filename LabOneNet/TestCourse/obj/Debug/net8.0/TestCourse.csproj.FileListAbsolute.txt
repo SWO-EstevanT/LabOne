@@ -1,0 +1,15 @@
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\bin\Debug\net8.0\TestCourse.exe
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\bin\Debug\net8.0\TestCourse.deps.json
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\bin\Debug\net8.0\TestCourse.runtimeconfig.json
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\bin\Debug\net8.0\TestCourse.dll
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\bin\Debug\net8.0\TestCourse.pdb
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\obj\Debug\net8.0\TestCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\obj\Debug\net8.0\TestCourse.AssemblyInfoInputs.cache
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\obj\Debug\net8.0\TestCourse.AssemblyInfo.cs
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\obj\Debug\net8.0\TestCourse.csproj.CoreCompileInputs.cache
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\obj\Debug\net8.0\TestCourse.sourcelink.json
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\obj\Debug\net8.0\TestCourse.dll
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\obj\Debug\net8.0\refint\TestCourse.dll
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\obj\Debug\net8.0\TestCourse.pdb
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\obj\Debug\net8.0\TestCourse.genruntimeconfig.cache
+C:\Users\estevan.tangarife\OneDrive - SoftwareOne\Desktop\LabsForPractices\LabOne\LabOneNet\TestCourse\obj\Debug\net8.0\ref\TestCourse.dll
