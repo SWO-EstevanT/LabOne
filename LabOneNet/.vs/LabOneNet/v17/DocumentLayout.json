@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\estevan.tangarife\\OneDrive - SoftwareOne\\Desktop\\LabsForPractices\\LabOne\\LabOneNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F07D66DD-8286-4A56-AD77-A178A42F4DF9}|TestCourse\\TestCourse.csproj|c:\\users\\estevan.tangarife\\onedrive - softwareone\\desktop\\labsforpractices\\labone\\labonenet\\testcourse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F07D66DD-8286-4A56-AD77-A178A42F4DF9}|TestCourse\\TestCourse.csproj|solutionrelative:testcourse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4419D889-A533-4503-A71C-8ACCDD72D923}|FirstProyect\\FirstProyect.csproj|c:\\users\\estevan.tangarife\\onedrive - softwareone\\desktop\\labsforpractices\\labone\\labonenet\\firstproyect\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4419D889-A533-4503-A71C-8ACCDD72D923}|FirstProyect\\FirstProyect.csproj|solutionrelative:firstproyect\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4419D889-A533-4503-A71C-8ACCDD72D923}|FirstProyect\\FirstProyect.csproj|c:\\users\\estevan.tangarife\\onedrive - softwareone\\desktop\\labsforpractices\\labone\\labonenet\\firstproyect\\controllers\\estevancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4419D889-A533-4503-A71C-8ACCDD72D923}|FirstProyect\\FirstProyect.csproj|solutionrelative:firstproyect\\controllers\\estevancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\estevan.tangarife\\OneDrive - SoftwareOne\\Desktop\\LabsForPractices\\LabOne\\LabOneNet\\TestCourse\\Program.cs",
-              "RelativeDocumentMoniker": "TestCourse\\Program.cs",
-              "ToolTip": "C:\\Users\\estevan.tangarife\\OneDrive - SoftwareOne\\Desktop\\LabsForPractices\\LabOne\\LabOneNet\\TestCourse\\Program.cs",
-              "RelativeToolTip": "TestCourse\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\estevan.tangarife\\OneDrive - SoftwareOne\\Desktop\\LabsForPractices\\LabOne\\LabOneNet\\FirstProyect\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "FirstProyect\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\estevan.tangarife\\OneDrive - SoftwareOne\\Desktop\\LabsForPractices\\LabOne\\LabOneNet\\FirstProyect\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "FirstProyect\\Controllers\\PeopleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T15:34:05.095Z",
+              "WhenOpened": "2024-06-21T13:38:51.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstevanController.cs",
+              "DocumentMoniker": "C:\\Users\\estevan.tangarife\\OneDrive - SoftwareOne\\Desktop\\LabsForPractices\\LabOne\\LabOneNet\\FirstProyect\\Controllers\\EstevanController.cs",
+              "RelativeDocumentMoniker": "FirstProyect\\Controllers\\EstevanController.cs",
+              "ToolTip": "C:\\Users\\estevan.tangarife\\OneDrive - SoftwareOne\\Desktop\\LabsForPractices\\LabOne\\LabOneNet\\FirstProyect\\Controllers\\EstevanController.cs",
+              "RelativeToolTip": "FirstProyect\\Controllers\\EstevanController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:38:29.324Z",
               "EditorCaption": ""
             }
           ]
